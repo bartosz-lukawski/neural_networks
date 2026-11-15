@@ -3,3 +3,6 @@ sample_submission.csv
 to_do_list.txt
 imgs/
 __pycache__/
+base_model_training_log_v1.csv
+models/
+base_model_v1_results.png
